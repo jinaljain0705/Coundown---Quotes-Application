@@ -58,6 +58,6 @@
 7. setTimeout, setInterval, clearInterval
 
 Output:
-![Main]()
+![Main](https://github.com/jinaljain0705/Coundown---Quotes-Application/blob/main/Output/Main.png)
 ![Start]()
 ![Pause]()
