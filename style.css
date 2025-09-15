@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: linear-gradient(to right, #2a333b, #404e4e);
+  color: #fff;
+  margin: 0;
+  padding: 20px;
+}
+
+#countdown {
+  font-size: 1.5rem;
+  margin: 15px 0;
+}
+
+#quote {
+  font-size: 1.2rem;
+  margin: 20px 0;
+  font-style: italic;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background: #fff;
+  color: #333;
+  font-weight: bold;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.modal-content {
+  background: #fff;
+  color: #333;
+  margin: 15% auto;
+  padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+#closeBtn {
+  float: right;
+  cursor: pointer;
+  font-size: 20px;
+}
