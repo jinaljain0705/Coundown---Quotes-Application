@@ -60,4 +60,4 @@
 Output:
 ![Main](https://github.com/jinaljain0705/Coundown---Quotes-Application/blob/main/Output/Main.png)
 ![Start](https://github.com/jinaljain0705/Coundown---Quotes-Application/blob/main/Output/Start.png)
-![Pause]()
+![Pause](https://github.com/jinaljain0705/Coundown---Quotes-Application/blob/main/Output/Pause.png)
